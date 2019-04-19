@@ -63,7 +63,7 @@ vue-parcel-zipsearch
   `--README.md      ... このファイル
 ```
 
-##　使い方
+## 使い方
 
 ```bash
 node -v # Node.jsがインストールされている必要がある
